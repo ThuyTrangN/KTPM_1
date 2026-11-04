@@ -137,7 +137,7 @@ Password: admin123
 
 ### Log phát hiện SQL injection
 
-![Log WAF phát hiện SQL injection và tổng điểm bất thường](evidence/05-waf-rule.png)
+![Log WAF phát hiện SQL injection và tổng điểm bất thường](evidence/05-waf-log.png)
 
 ## Phân tích
 
